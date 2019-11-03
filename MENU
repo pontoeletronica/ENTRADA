@@ -1,26 +1,9 @@
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - PONTOELETRONICA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TODOS DIREITOS RESERVA A PONTOELETRONICA ASSISTENCIA TECNICA  - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>[COLOR indigo]''[/COLOR][COLOR deeppink]''[/COLOR][COLOR darkorange]''[/COLOR] [COLOR white]TV AOVIVO[/COLOR] [COLOR deeppink]''[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</<thumbnail>>
-<externallink>https://raw.githubusercontent.com/pontoeletronica/ENTRADA/master/CANAIS%20AOVIVO</externallink>
-<fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink] '' [/COLOR]- ATUALIZADO DIARIAMENTE -[COLOR deeppink] ''[/COLOR]</info>
-</channel>
-</channels>
+<iten>
+<title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]NOME - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>URL AQUI$$lsname-[COLOR orange]HD[/COLOR] - LINK 3<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</iten>
