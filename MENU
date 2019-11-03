@@ -26,17 +26,31 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]''[/COLOR][COLOR deeppink]''[/COLOR][COLOR darkorange]''[/COLOR] [COLOR white]TV AOVIVO[/COLOR] [COLOR deeppink]''[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</<thumbnail>>
+<externallink>https://raw.githubusercontent.com/pontoeletronica/ENTRADA/master/CANAIS%20AOVIVO</externallink>
+<fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink] '' [/COLOR]- ATUALIZADO DIARIAMENTE -[COLOR deeppink] ''[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR indigo]...[/COLOR][COLOR deeppink] ...[/COLOR][COLOR darkorange]''''''[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]'''''[/COLOR]</name>
+<name>[COLOR indigo]''[/COLOR][COLOR deeppink] ''[/COLOR][COLOR darkorange]''[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]''[/COLOR]</name>
 <thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</<thumbnail>>
 <externallink>https://</externallink>
 <fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink] . [/COLOR]- ATUALIZADO DIARIAMENTE -[COLOR deeppink] .[/COLOR]</info>
+[COLOR deeppink] '' [/COLOR]- ATUALIZADO DIARIAMENTE -[COLOR deeppink] ''[/COLOR]</info>
 </channel>
 </channels>
 
