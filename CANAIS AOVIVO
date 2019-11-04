@@ -1,7 +1,10 @@
 <item>
-<title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]NOME - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DICAS PHILCO PH[/B]</title>
-<link>https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view</link>
-<thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
+<title>[B] [COLOR orange]DICAS PHILCO PH [/COLOR][COLOR lime]  VIDEO 1 [/COLOR]- [/B]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+
+<link>https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname-[COLOR orange]HD[/COLOR] - LINK 3<link>
+<thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.pn</thumbnail>
 <fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
-<info>estou testando</info>
+<info></info>
 </item>
