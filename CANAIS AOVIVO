@@ -93,7 +93,7 @@
 <<<<<<<<<<<<<<<
 <item>
 <title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]NOME - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DICAS PHILCO PH[/B]</title>
-<link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=</link>
+<link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8?wmsAuthSign=true</link>
 <thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
 <fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
 <info>estou testando</info>
