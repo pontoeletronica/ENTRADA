@@ -14,9 +14,9 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DICAS DE DEFEITOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/pontoeletronica/ENTRADA/master/CANAIS%20AOVIVO</externallink>
+<externallink>https://raw.githubusercontent.com/pontoeletronica/ENTRADA/master/TV%20AO%20VOVO</externallink>
 <fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
 <info>
 [COLOR deeppink]|[/COLOR] - ADDON EDIVAN SANTOS- [COLOR deeppink]|[/COLOR]</info>
@@ -24,14 +24,3 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ANALISE DE DEFEITOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/pontoeletronica/ENTRADA/master/CANAIS%20AOVIVO</externallink>
-<fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
-<info>
-[COLOR deeppink]|[/COLOR] - ADDON EDIVAN SANTOS- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
