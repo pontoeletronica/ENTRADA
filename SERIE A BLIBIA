@@ -180,3 +180,11 @@ Formato: MP4
 Tamanho: Diversos Tamanhos
 Ídioma: Português</info>
 </item>
+<<<<<<<<<<<<<<<<
+<item>
+<title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]NOME - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - yotuber[/B]</title>
+<link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>estou testando</info>
+</item>
