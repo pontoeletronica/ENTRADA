@@ -182,19 +182,10 @@ Tamanho: Diversos Tamanhos
 </item>
 <<<<<<<<<<<<<<<<
 <item>
-<title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]NOME - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - yotuber[/B]</title>
-<link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>estou testando</info>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B] [COLOR lime] 'NEW [/COLOR] [/B] [B]A Vida Secreta das Cheerleaders  - [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
+<title>[B] [COLOR lime] 'Vida Secreta das Cheerleaders  [/COLOR] [/B] [B]DUBLADO- [COLOR yellow] (2019) [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XikX-jcPL4tSKE1W0JObUzihjnhiJKc1/view</link>
 <thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.png</thumbnail>
 <fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
 <info>estou testando</info>
 </item>
-
+<<<<<<<<<<<<<<<<
