@@ -1,141 +1,133 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[B] [COLOR orange]DICAS PHILCO PH [/COLOR][COLOR lime]HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname=[COLOR lime]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname=[COLOR lime]HD[/COLOR] - LINK 1</link>
+<title> [B] [COR laranja] DICAS PHILCO PH [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OTDl0bGdqZkZ4TzA/view$$lsname= [COLOR lime] HD [/ COLOR] - LINK 1 </link>
 
-<thumbnail>https://www.multmotores.com.br/images/manutencao-eletronica-industrial-01.jpg</thumbnail>
-<fanart>https://www.multmotores.com.br/images/manutencao-eletronica-industrial-01.jpg</fanart>
-<info></info>
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1nW6YrQEPm--9B_tEeq2ol1BRS4SpYgxw/view$$lsname= [COLOR lime] HD [/ COLOR] -TV-LED-Philips-32PFL6606-LEDS NAO ACENDEM </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1_T446RaF4maSgnjHi_dk2Zdaw0MQWjke/view$$lsname= [COLOR lime] HD [/ COLOR] - TV-LED Sony KDL-32EX525-LEDS NAO ACENDEM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 3 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1-HTEzpHXtCMQuU6gS2kOcMex-Q7Wvi-S/view$$lsname= [COLOR lime] HD [/ COLOR] -TV-LED Samsung-UN48H5550-SEM IMAGEM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 4 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1LEdHvNmT8QMXH5rS2wmg68Z-9FtmNMr4/view$$lsname= [COLOR lime] HD [/ COLOR ] -TV-LED Samsung-UN32D4000-NAO LIGA </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 5 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/12esaYDc6xT1fEYmeHz3ilpvUY2mvvXGv/view$$lsname= [COLOR lime] HD [/ COLOR] - TV-LED Samsung-UN32F4200-SEM IMAGEM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 6 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1B00WDv_v5obDt0crdCaaQuXKEpm6l96F/view$$$namename [COLOR lime] HD [/ COLOR] - TV-LED-Philco-PH48S61 -LEDS ACENDEN E APAGAM </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1aIDtWTISXteZHNoMRYHO-jHh4DFJPs1Q/view$$$namename [COLOR lime] HD [/ COLOR ] -TV-LED Philco PH28S63-NAO FUNCIONA </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/130VlMIzFcY8z9uje9TMBDZxU_Qbza-lj/view$$$namename [COLOR lime] HD [/ COLOR ] -TV-LED LG 39LN5400-LEDS NAO ACENDEM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 3 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1UhQTVFENWFR1y27APGGW95239HuVi2P9/view$$lsname= [COLOR lime] HD [/ COLOR] - TV-LCD Toshiba LC4242-NAO FUNCIONA </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 4 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/16r-wHdrYlMnE6w0Vvr1G6vrpEGaZvXJ3/view$$lsname= [COLOR lime] HD [/ COLOR ] -TV-LCD Toshiba 42XV500-LIGA E DESLIGA </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 5 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1y7jteVvG6sXGZWUoyAlRo5v6Tog_Eb2s/view$$lsname= [COLOR lime] HD [/ COLOR] - TV de LCD Samsung LN40A550-TELA BRANCA C / CORTINA </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 6 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1Yy40F6p_aybz81OyJXJAPhRGvjP47ywi/view$$lsname= [COLOR lime] HD [/ COLOR] - TV de LCD Samsung LN26B450-LAMPADAS NAO ACENDEM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 6 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1stRwvRc90ApnBYlwt9LUYD9LUa_cl-Pr/view$$lsname= [COLOR lime] HD [/ COLOR ] -TV-LCD LG 32LG64UR-TELA ESCURA SEM IMAGEM </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1zAezpyZmi2cwGC7hZ3172A3cmv2RkhUi/view$$lsname= [COLOR lime] HD [/ COLOR] - PORTA LOGICA E FLIP-FLOP RS </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1AWTNYucVW9rhHs_O-2uRyhpkb9qPh3uQ/view$$lsname= [COLOR lime] HD [/ COLOR ] -MONITO-TOSHIBA MLC-1931-LAMPADAS APAGAM </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 3 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1USEkmhT016NwF5n3jATHqGfo-5FLrQD1/view$$$namename [COLOR lime] HD [/ COLOR ] -MONITOR POSITIVO-NAO LIGA </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 4 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1tAHWDSRP1MbJGdhfLwSqmON6OYL-6R0R/view$$lsname= [COLOR lime] HD [/ COLOR ] -Módulo Amplificador de Áudio-aula 4 </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 5 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1SFqbgsn9J0rF88lFgQAtTvE_ZLxc5gFp/view$$lsname= [COLOR lime] HD [/ COLOR] - Módulo Amplificador de Áudio-aula 3 </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 6 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1cRJY2TrjZQWIXccXMthF6HRRYhbHHwNH/view$$$namename [COLOR lime] HD [/ COLOR] - Dobrador de tensão nos mini sistemas </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1DxYd5kJwqKw36-MuiMx2FBqnQnVTVP_Y/view$$lsname= [COLOR lime] HD [/ COLOR ] -Divisor de tensão série 1 </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/18lKGBM-g9AEytTS2SkfPIGifCqVzgnf6/view$$lsname= [COLOR lime] HD [/ COLOR ] -Divisor de tensão série paralela 2 </link>
+
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 3 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1r3etSFMXCdRHCs6R4qFFaL_NZjcv4Wly/view$$lsname= [COLOR lime] HD [/ COLOR] - Análise da fonte de TV LED Samsung UN32D5000 </link>
+
+<title> [B] [COLOR orange] MAIS ELT ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 4 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1KpwVf77ghAqkNZn_Zqugpab4Bdh9PnhZ/view$$lsname= [COLOR lime] HD [/ COLOR] - Amostra do curso de TV LED - Led branco </link>
+
+<title> [B] [COLOR orange] MAIS ANALISE DE DEFEITOS [/ COLOR] [COLOR lime] VÍDEO 5 [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1_LwGCAwjVbkoN_v4XOkIWAHyIID4WoVs/view$$lsname= [COLOR lime] HD [/ COLOR] - Amostra do curso de TV LCD - Conversores ADC e DAC </link>
+
+
+
+<thumbnail> https://i.ytimg.com/vi/CKEi8HzDVUU/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_aqloiLMEmQ/maxresdefault.jpg</fanart>
+<info> </info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< EBOOCK PLASMA
+<item>
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] HD [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/1KIyYf3xZEadnC41LG0xqvROqXjrZJknK/view$$lsname= [COLOR lime] HD [/ COLOR] - TV Samsung PL42B450-SEM BLILHO </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OWVVZWGstLUNMaU0/view$$$namename [[color lime] HD [/ COLOR] - TV LG 42PT250-LIGA E DESLIGA </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2ONUZ6TUlQdmtDaWc/view$$$namename [COLOR lime] HD [/ COLOR] - LG 42PJ350-SEM BLILHO </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OR2dOSmZYUEVHM1U/view$$namename= [COLOR lime] HD [/ COLOR] - LG 42PJ350-LIGA E DESLIGA </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OQ0dRZjBtLXFZaU0/view$$$namename [COLOR lime] HD [/ COLOR] - LG 42PJ350-IMAGEM ESCOLA E COM CHUVISCO </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OUVVyVzlrbzJpUVE/view$$$namename [COLOR lime] HD [/ COLOR] - LG 42PJ350-IMAGEM ESCULA E COM CHUVISCO-2 </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OSmxicFpnRDczczA/view$$$namename [COLOR lime] HD [/ COLOR] - Teste de isolamento das placas Ysus Zsus e Ybuffer </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2Oc0xTbnZyb0h5bHM/view$$lsname= [COLOR lime] HD [/ COLOR] - FORMAS DE ONDA YZ- </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OZ1ZEa2VoNzBpOEE/view$$lsname= [COLOR lime] HD [/ COLOR] - Como usar ou disparar nos modos normal e único </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OWWhhMFBmNnRLQUE/view$$namename= [COLOR lime] HD [/ COLOR] - Análise das formas de ondas Y e Z com dois canais </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OTlpLcC1SQVNNems/view$$namename= [COLOR lime] HD [/ COLOR] - Análise da forma de onda Yscan </link>
+
+
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2OU1FmcHIxT1JBUUk/view$$lsname= [COLOR lime] HD [/ COLOR] - Análise da forma de onda Yout </link>
+
+<title> [B] [COLOR orange] EBOOCK PLASMA [/ COLOR] [COLOR lime] NAO LIGA [/ COLOR] - [/ B] </title>
+<link> plugin: //plugin.video.gdrive? mode = streamURL & amp; url = https: //drive.google.com/file/d/0B_KmkwEiVw2ONWlvY3drWFNOYWs/view$$$namename [COLOR lime] HD [/ COLOR] - Ajuste do osciloscópio </link>
+
+<thumbnail>http://maiseletronica.com.br/wp-content/uploads/2017/01/paperbackbookstanding_849x1126-226x300.jpg</thumbnail>
+<fanart> https://i.ytimg.com/vi/_aqloiLMEmQ/maxresdefault.jpg</fanart>
+<info> </info>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS[/COLOR][COLOR lime] HD [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nW6YrQEPm--9B_tEeq2ol1BRS4SpYgxw/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED-Philips-32PFL6606-LEDS NAO ACENDEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime] HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_T446RaF4maSgnjHi_dk2Zdaw0MQWjke/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED Sony KDL-32EX525-LEDS NAO ACENDEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 3 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-HTEzpHXtCMQuU6gS2kOcMex-Q7Wvi-S/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED Samsung-UN48H5550-SEM IMAGEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 4 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LEdHvNmT8QMXH5rS2wmg68Z-9FtmNMr4/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED Samsung-UN32D4000-NAO LIGA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 5 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12esaYDc6xT1fEYmeHz3ilpvUY2mvvXGv/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED Samsung-UN32F4200-SEM IMAGEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 6 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B00WDv_v5obDt0crdCaaQuXKEpm6l96F/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED-Philco-PH48S61 -LEDS ACENDEN E APAGAM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS[/COLOR][COLOR lime] HD [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aIDtWTISXteZHNoMRYHO-jHh4DFJPs1Q/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED Philco PH28S63-NAO FUNCIONA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime] HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/130VlMIzFcY8z9uje9TMBDZxU_Qbza-lj/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LED LG 39LN5400-LEDS NAO ACENDEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 3 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UhQTVFENWFR1y27APGGW95239HuVi2P9/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LCD Toshiba LC4242-NAO FUNCIONA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 4 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16r-wHdrYlMnE6w0Vvr1G6vrpEGaZvXJ3/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LCD Toshiba 42XV500-LIGA E DESLIGA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 5 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y7jteVvG6sXGZWUoyAlRo5v6Tog_Eb2s/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LCD Samsung LN40A550-TELA BRANCA C/CORTINA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 6 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yy40F6p_aybz81OyJXJAPhRGvjP47ywi/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LCD Samsung LN26B450-LAMPADAS NAO ACENDEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 6 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1stRwvRc90ApnBYlwt9LUYD9LUa_cl-Pr/view$$lsname=[COLOR lime]HD[/COLOR]-TV-LCD LG 32LG64UR-TELA ESCURA SEM IMAGEM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS[/COLOR][COLOR lime] HD [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zAezpyZmi2cwGC7hZ3172A3cmv2RkhUi/view$$lsname=[COLOR lime]HD[/COLOR]-PORTA LOGICA E FLIP-FLOP R-S</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime] HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AWTNYucVW9rhHs_O-2uRyhpkb9qPh3uQ/view$$lsname=[COLOR lime]HD[/COLOR]-MONITO-TOSHIBA MLC-1931-LAMPADAS APAGAM</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 3 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1USEkmhT016NwF5n3jATHqGfo-5FLrQD1/view$$lsname=[COLOR lime]HD[/COLOR]-MONITOR POSITIVO-NAO LIGA</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 4 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tAHWDSRP1MbJGdhfLwSqmON6OYL-6R0R/view$$lsname=[COLOR lime]HD[/COLOR]-Módulo Amplificador de Áudio-aula 4</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 5 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SFqbgsn9J0rF88lFgQAtTvE_ZLxc5gFp/view$$lsname=[COLOR lime]HD[/COLOR]-Módulo Amplificador de Áudio-aula 3</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 6 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cRJY2TrjZQWIXccXMthF6HRRYhbHHwNH/view$$lsname=[COLOR lime]HD[/COLOR]-Dobrador de tensão nos mini systems</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime] HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DxYd5kJwqKw36-MuiMx2FBqnQnVTVP_Y/view$$lsname=[COLOR lime]HD[/COLOR]-Divisor de tensão série aula 1</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS[/COLOR][COLOR lime] HD [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18lKGBM-g9AEytTS2SkfPIGifCqVzgnf6/view$$lsname=[COLOR lime]HD[/COLOR]-Divisor de tensão série paralelo aula 2</link>
-
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 3 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r3etSFMXCdRHCs6R4qFFaL_NZjcv4Wly/view$$lsname=[COLOR lime]HD[/COLOR]-Análise da fonte TV LED Samsung UN32D5000</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 4 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KpwVf77ghAqkNZn_Zqugpab4Bdh9PnhZ/view$$lsname=[COLOR lime]HD[/COLOR]-Amostra do curso de TV LED - Led branco</link>
-
-<title>[B] [COLOR orange] MAIS E.L.T ANALISE DE DEFEITOS [/COLOR][COLOR lime]  VIDEO 5 [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_LwGCAwjVbkoN_v4XOkIWAHyIID4WoVs/view$$lsname=[COLOR lime]HD[/COLOR]-Amostra do curso de TV LCD - Conversores ADC e DAC</link>
-
-
-
-<thumbnail>https://ia801409.us.archive.org/17/items/iconesprojeto_201911/icon.pn</thumbnail>
-<fanart>https://ia601409.us.archive.org/17/items/iconesprojeto_201911/fanart.jpg</fanart>
-<info></info>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<EBOOCK PLASMA
-<item>
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime]HD[/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KIyYf3xZEadnC41LG0xqvROqXjrZJknK/view$$lsname=[COLOR lime]HD[/COLOR]-TV Samsung PL42B450-SEM BLILHO </link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OWVVZWGstLUNMaU0/view$$lsname=[COLOR lime]HD[/COLOR]-TV LG 42PT250-LIGA E DESLIGA</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2ONUZ6TUlQdmtDaWc/view$$lsname=[COLOR lime]HD[/COLOR]- LG 42PJ350-SEM BLILHO</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OR2dOSmZYUEVHM1U/view$$lsname=[COLOR lime]HD[/COLOR]-LG 42PJ350-LIGA E DESLIGA</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OQ0dRZjBtLXFZaU0/view$$lsname=[COLOR lime]HD[/COLOR]-LG 42PJ350-IMAGEM ESCULA E COM CHUVISCO</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OUVVyVzlrbzJpUVE/view$$lsname=[COLOR lime]HD[/COLOR]-LG 42PJ350-IMAGEM ESCULA E COM CHUVISCO-2</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OSmxicFpnRDczczA/view$$lsname=[COLOR lime]HD[/COLOR]-Teste de isolação das placas Ysus Zsus e Ybuffer</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2Oc0xTbnZyb0h5bHM/view$$lsname=[COLOR lime]HD[/COLOR]-FORMAS DE ONDA Y-Z-</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OZ1ZEa2VoNzBpOEE/view$$lsname=[COLOR lime]HD[/COLOR]-Como utilizar o trigger nos modos normal e single</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OWWhhMFBmNnRLQUE/view$$lsname=[COLOR lime]HD[/COLOR]-Análise das formas de ondas Y e Z com os dois canais</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OTlpLcC1SQVNNems/view$$lsname=[COLOR lime]HD[/COLOR]-Análise da forma de onda Yscan</link>
-
-
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2OU1FmcHIxT1JBUUk/view$$lsname=[COLOR lime]HD[/COLOR]-Análise da forma de onda Yout</link>
-
-<title>[B] [COLOR orange]EBOOCK PLASMA[/COLOR][COLOR lime] NAO LIGA [/COLOR]- [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_KmkwEiVw2ONWlvY3drWFNOYWs/view$$lsname=[COLOR lime]HD[/COLOR]-Ajuste do osciloscópio</link>
-
-<thumbnail>https://www.multmotores.com.br/images/manutencao-eletronica-industrial-01.jpg</thumbnail>
-<fanart>https://www.multmotores.com.br/images/manutencao-eletronica-industrial-03.jpg</fanart>
-<info></info>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<
